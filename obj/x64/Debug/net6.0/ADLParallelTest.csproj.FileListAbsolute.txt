@@ -1,0 +1,15 @@
+D:\TestCode\ADLParallelTest\ADLParallelTest\bin\x64\Debug\net6.0\ADLParallelTest.exe
+D:\TestCode\ADLParallelTest\ADLParallelTest\bin\x64\Debug\net6.0\ADLParallelTest.deps.json
+D:\TestCode\ADLParallelTest\ADLParallelTest\bin\x64\Debug\net6.0\ADLParallelTest.runtimeconfig.json
+D:\TestCode\ADLParallelTest\ADLParallelTest\bin\x64\Debug\net6.0\ADLParallelTest.dll
+D:\TestCode\ADLParallelTest\ADLParallelTest\bin\x64\Debug\net6.0\ADLParallelTest.pdb
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.csproj.AssemblyReference.cache
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.AssemblyInfoInputs.cache
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.AssemblyInfo.cs
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.csproj.CoreCompileInputs.cache
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.dll
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\refint\ADLParallelTest.dll
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.pdb
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ADLParallelTest.genruntimeconfig.cache
+D:\TestCode\ADLParallelTest\ADLParallelTest\obj\x64\Debug\net6.0\ref\ADLParallelTest.dll
